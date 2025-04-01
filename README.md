@@ -1,4 +1,4 @@
-# go-video-confrence
+# go-video
 Create a video conference application using Golang.
 
 ## Technologies used
